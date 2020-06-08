@@ -13,6 +13,9 @@ function App() {
         <p>
           NO SE REACT
         </p>
+        <p>
+          PLZ SEND HELP
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
